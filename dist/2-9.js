@@ -10,6 +10,7 @@ var WeekEnd;
     WeekEnd["Saturday"] = "six";
     WeekEnd["Sunday"] = "seven";
 })(WeekEnd || (WeekEnd = {}));
+console.log(WeekEnd.Mondy);
 var Week;
 (function (Week) {
     Week[Week["Mondy"] = 1] = "Mondy";
